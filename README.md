@@ -1,2 +1,3 @@
 # hello-world
-This is my first project on Github. I will use it with Udacity.
+Hello everybody,
+I am learning some new skills and I decided to try Github.
